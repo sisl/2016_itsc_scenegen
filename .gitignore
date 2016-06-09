@@ -1,0 +1,9 @@
+*.Rhistory
+*-blx.bib
+*.aux
+*.log
+*.out
+*.pdf
+*.bbl
+*.blg
+*.run.xml
